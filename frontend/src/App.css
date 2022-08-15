@@ -1,0 +1,27 @@
+.Main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: DodgerBlue;
+  height: 100vh;
+  max-height: 90%;
+}
+
+/* .Pitch {
+  max-height: inherit;
+  float:left;
+  /* height: 100%;
+  width: 100%; */
+
+
+.Pitch {
+  max-width: inherit;
+  max-height: inherit;
+  background-color: greenyellow;
+  margin-right: 5%;
+}
+
+.Menu {
+  background-color: #f1f1f1;
+  margin-right: 5%;
+}
